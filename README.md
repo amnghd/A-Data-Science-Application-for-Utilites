@@ -1,0 +1,2 @@
+# A-Data-Science-Application-for-Utilites
+This repository is no meant to be for code, rather it tries to publicize the application of data science in a very old field, Power Utilities. Our colleagues and I have performed 6 years of research and published its results. Since the code parts are confidential, I will try to give you an understanding of the phenomenon and shed light on another possible direction for data scientists to look for oppurtunities.
